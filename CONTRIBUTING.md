@@ -5,7 +5,7 @@ First of all, thanks for taking the time to contribute! 🎉👍
 This repository is a place to share resources for the 'Humanities - Data Science' (HDS) discussion and interest group and we welcome suggestions and contributions.
 You can report mistakes and errors, propose a topic for discussion, offer resources or help create posts based on past discussions.
 
-For any organisation related queries or concern, you can directly reach out to the organisers Federico Nanni (email:  fnanni@turing.ac.uk).
+For any organisation related queries or concern, you can directly reach out to the organisers by dropping an email to Federico Nanni (email:  fnanni@turing.ac.uk).
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities and projects involved in this event.
 
 Whatever is your background and availability, there is a way to contribute on this GitHub repository.
@@ -13,18 +13,17 @@ Whatever is your background and availability, there is a way to contribute on th
 🏃 I'm busy, I only have 1 minute
 ---
 
-Get in touch with the members who organise discussion sessions and maintain documents in the repository
+Get in touch with the members who organise discussion sessions and maintain documents in the repository (for instance by fixing typos in [our meeting minutes](https://github.com/fedenanni/HDS-DiscussionGroup/tree/meeting-resources/meeting-minutes)! 😊)
 
 ⏳ I've got 5 minutes - tell me what I should do
 ---
 
-Submit issues/pull requests to suggest new topics for discussion, fix errors or comment on an issue
+Submit issues/pull requests to suggest new topics for discussion
 
 🎉 It's my life's mission to learn everything about Humanities and Data Science
 ---
 
-Contribute to the posts, documents and notes
-Suggested topics for discussions on latest resources
+Suggest a topic and chair the session! Contribute to the following posts, documents and notes.
 
 Please open a GitHub issue to suggest new content, contribute examples, or let us know about errors/bugs.
 
