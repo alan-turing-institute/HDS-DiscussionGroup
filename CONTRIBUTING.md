@@ -28,10 +28,15 @@ Suggested topics for discussions on latest resources
 
 Please open a GitHub issue to suggest new content, contribute examples, or let us know about errors/bugs.
 
-Project roadmap 🏁
+🛠 I am ready to contribute 
 ---
 
-For tasks to work on in the near future, please see open Issues.
+- For open tasks in this repository, please see the [Issues section](https://github.com/fedenanni/HDS-DiscussionGroup/issues).
+- Raise mistakes, error or missing information on this repository by opening a [Pull Request](https://github.com/fedenanni/HDS-DiscussionGroup/pulls)
+  - Read details on [how to open a Pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)
+  - Submit trivial fixes (for example, a typo, a broken link or an obvious error)
+  - Start work on a contribution that is already listed as an issue, or something you’ve already discussed
+  - A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
 
 Acknowledgements 🙌
 ---
