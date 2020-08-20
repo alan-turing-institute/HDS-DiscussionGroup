@@ -41,7 +41,7 @@ Please open a GitHub issue to suggest new content, contribute examples, or let u
 Acknowledgements 🙌
 ---
 
-This project is maintained and organised by Federico Nanni, Leontien Talboom, Katherine L McDonough and Malvika Sharan.
+This project is maintained and organised by Federico Nanni, Leontien Talboom, Malvika Sharan and Katherine L McDonough.
 
 This work is licensed under a Creative Commons Attribution 4.0 International license. 
 You are free to share and adapt the material for any purpose, even commercially, 
