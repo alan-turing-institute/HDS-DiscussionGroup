@@ -1,0 +1,67 @@
+## Notes: 04 March, 2020
+
+- **Hosts:**
+	- Fede, Leontien
+
+### Topic
+
+- [Data-driven publications in the Humanities](https://docs.google.com/presentation/d/13nPK5f9Z6wEwOkjbNfLQI4WZ1cRJ9HfDcl6MmmuaJtY/edit?usp=sharing) - comments are open
+
+**Participants (write your names below)**
+
+    - Malvika, Kasra, Laura, Katie, DanVan, Kaspar, Mariona, Giorgia Occhini, Tim, Amy
+
+:dart: Discussion Goal
+---
+
+- Discussing the impact of data-driven research on the overall debate concerning methodology in the humanities
+
+:books: Works mentioned during the discussion
+---
+  - Gregory Crane, [What Do You Do with a Million Books?](http://www.dlib.org/dlib/march06/crane/03crane.html), 2006
+  - [The Culturomics paper](http://www.culturomics.org/), 2010
+  - Dan Cohen, [Initial Thoughts on the Google Books Ngram Viewer and Datasets](https://dancohen.org/2010/12/19/initial-thoughts-on-the-google-books-ngram-viewer-and-datasets/ "https://dancohen.org/2010/12/19/initial-thoughts-on-the-google-books-ngram-viewer-and-datasets/"), 2010
+  - Anthony Grafton, [Loneliness and Freedom](https://www.historians.org/publications-and-directories/perspectives-on-history/march-2011/loneliness-and-freedom), 2011
+  - Cameron Blevins, [Topic Modeling Martha Ballard's Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/), 2010
+  - Matthew Jockers and Annie Swafford discussion around the Syuzhet package, 2015. Starting points: [1](http://www.matthewjockers.net/2015/02/02/syuzhet/) and [2](https://annieswafford.wordpress.com/2015/03/02/syuzhet/)
+  - Scott Weingart, [“Digital History” Can Never Be New](https://scottbot.net/digital-history-can-never-be-new/), 2016
+
+
+:mag: Main arguments from the discussion
+---
+
+- The different role that examples play in historical research compared to other disciplines (especially the social and natural sciences). In the first, they are presented as evidences for sustaining a specific narrative, while in the others they offer insights on a quantified property of the analysed data.
+- Initially, a distant reading method like topic modeling was used for browsing and visualizing the collection, not for deriving evidence (however the distinction is thin)
+- History deals with questions that often cannot be answered using big data and quantitative approaches. For instance "how" questions, rather than "what".
+
+:closed_book: Closing remarks/questions/topics (for future discussions!)
+--
+
+- The role of private companies in digitizing and making available collections (ethical, copyright and accessibility issues)
+- Non-domain experts doing research in the humanities (as well in biology, medicine, psicology) because they know how to work at scale
+- The difference between discovering and justification in the Humanities (starting from [Trevor Owens, 2012](http://www.trevorowens.org/2012/11/discovery-and-justification-are-different-notes-on-sciencing-the-humanities/))
+- How different disciplines answer "why" questions, and whether this is changing with the advent of data science. 
+
+### Additional Drafted Notes 
+<!-- Other important details discussed during the meeting can be entered here. -->
+
+- Previous experience working/playing with tools for working with large dataset without any goal or questions in mind
+  - How can playing around be changed to actual research: making sense of the outcome?
+
+- What happens when you find something you did not expect? i.e. sentiment analysis of Dorian Grey that ends up showing that the book is sad in the first part and happy towards the end. Is data exploration used in other fields?
+  - Linguist researchers working on Oral tradition - can create maps and names 
+  - Engineers - hypothesis generation does not expect surprises, but going forward in exploration can give you surprise to support or reject these surprises
+  - Historians go to archive with some question to select the collections to look at - then they can lean on serendipity that can lead to the crystalisation of bigger new questions
+  - In bioinformatics we can start with a set of data, i.e. multiple cancer sequencing data (transcriptomics, metagenomics, metabolomics, proteomics) and we can study patterns and derive conclusion on what kind of cancer are they, what causes them, which are the genes or the drug targets. Serendipity and surprises are basically everything - but larger dataset allow us remove noise from actual signal in data.
+  - Conclusion: Its hard to ignore surprises and ask more questions when they appear as a side effect of an original question
+
+- Dan Cohen's reaction to n-gram: are trends derived from big data as historical  evidences or do we just want to search and learn?
+  - Human right critical theory: this approach allows them to look at the last status (what it is) and then go back to looking into data to see how it started.
+  - Social sciences: Hypothesis generation in social sciences are based on assumptions derived by a specific group of people working on selected cases and examples - it changes with people, their environment and cases/examples
+  - Engineer: we need tools for exploration and other tools for trends - trends can allow us to avoid averaging out (overfitting or underfitting) of observations.
+  - when you are working with millions of article, you will find an article that matches your ideal observation
+  - improving how we use methods to go from distant to close reading or vice versa: avoiding cherry picking of observation made through an analysis by using computational methods that can help them avoid these bias
+- Do computational approaches to history help historian ask new question, or provide new methods to explore old question?
+  - In other fields, general observations allowing future predictions, for e.g. conflict, infections 
+  - It also depends of the relevance in our community, for e.g. coronavirus vs infection in general
+  - Some questions can't be addressed with the close reading because it is about trend (and vice versa)
