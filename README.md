@@ -9,7 +9,7 @@ We have been organising and hosting discussion sessions to discuss imporant topi
 Members of this discussion/interest group members are from The Alan Turing Institute, University College London, British Library and their friends or colleagues.
 As we gain momentum in this project and test different formats to run our discussion session, we understand that there might be more people who would like to get involved in the discussions or read notes from these sessions.
 
-If you would like to get involved or share ideas to make resources from these session available for wider audience, Please get in touch with the maintainers of this repository and members of the organisation group, Federico Nanni, Leontien Talboom, Malvika Sharan and Katherine L. McDonough by opening an [issue](https://github.com/fedenanni/HDS-DiscussionGroup/issues) on this repository.
+If you would like to get involved or share ideas to make resources from these session available for wider audience, please get in touch with the maintainers of this repository and members of the organisation group, Federico Nanni, Leontien Talboom, Malvika Sharan and Katherine L. McDonough by opening an [issue](https://github.com/fedenanni/HDS-DiscussionGroup/issues) on this repository.
 
 If you think you can help in any of the issues raised in this repository please check out our [contributors' guidelines](./CONTRIBUTING.md).
 
