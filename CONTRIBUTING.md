@@ -2,7 +2,7 @@
 
 First of all, thanks for taking the time to contribute! 🎉👍
 
-This repository is a place to share resources for the 'Humanities - Data Science' (HDS) discussion and interest group and we welcome suggestions and contributions.
+This repository is a place to share resources for the Humanities & Data Science (HDS) discussion and interest group and we welcome suggestions and contributions.
 You can report mistakes and errors, propose a topic for discussion, offer resources or help create posts based on past discussions.
 
 For any organisation related queries or concern, you can directly reach out to the organisers Federico Nanni (email:  fnanni@turing.ac.uk).
