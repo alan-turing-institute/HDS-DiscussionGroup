@@ -20,7 +20,7 @@ Get in touch with the members who organise discussion sessions and maintain docu
 
 Submit issues/pull requests to suggest new topics for discussion, fix errors or comment on an issue
 
-🎉 It's my life's mission to learn everything Humanities and Data Science
+🎉 It's my life's mission to learn everything about Humanities and Data Science
 ---
 
 Contribute to the posts, documents and notes
@@ -33,7 +33,7 @@ Project roadmap 🏁
 
 For tasks to work on in the near future, please see open Issues.
 
-Acknowledgements 👪
+Acknowledgements 🙌
 ---
 
 This project is maintained and organised by Federico Nanni, Leontien Talboom, Katherine L McDonough and Malvika Sharan.
