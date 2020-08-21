@@ -12,7 +12,7 @@ As we gain momentum in this project and test different formats to run our discus
 
 If you would like to get involved or share ideas to make resources from these sessions available for wider audience, please get in touch with the maintainers of this repository and members of the organisation group, Federico Nanni, Leontien Talboom, Malvika Sharan and Katherine L. McDonough by opening an [issue](https://github.com/fedenanni/HDS-DiscussionGroup/issues) on this repository.
 
-If you think you can help in any of the issues raised in this repository please check out our [contributors' guidelines](./CONTRIBUTING.md).
+If you would like to help with any of the issues raised in this repository or have other ideas for contributions, please check out our [contributors' guidelines](./CONTRIBUTING.md).
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate.
 When you join us we ask that you follow our [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions both online and offline.

@@ -2,7 +2,7 @@
 
 First of all, thanks for taking the time to contribute! 🎉👍
 
-This repository is a place to share resources for the 'Humanities - Data Science' (HDS) discussion and interest group and we welcome suggestions and contributions.
+This repository is a place to share resources for the Humanities & Data Science (HDS) discussion and interest group and we welcome suggestions and contributions.
 You can report mistakes and errors, propose a topic for discussion, offer resources or help create posts based on past discussions.
 
 For any organisation related queries or concern, you can directly reach out to the organisers by dropping an email to Federico Nanni (email:  fnanni@turing.ac.uk).
@@ -40,7 +40,7 @@ Please open a GitHub issue to suggest new content, contribute examples, or let u
 Acknowledgements 🙌
 ---
 
-This project is maintained and organised by Federico Nanni, Leontien Talboom, Katherine L McDonough and Malvika Sharan.
+This project is maintained and organised by Federico Nanni, Leontien Talboom, Malvika Sharan and Katherine L McDonough.
 
 This work is licensed under a Creative Commons Attribution 4.0 International license. 
 You are free to share and adapt the material for any purpose, even commercially, 
