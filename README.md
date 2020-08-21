@@ -6,7 +6,7 @@ This repository is to develop, store and maintain resources for the Humanities &
 
 This document (the README file) is a hub to give you some information about the project.
 
-Since January 2019, we have been organising and hosting sessions to discuss imporant topics that are at the intersection of humanities and data science.
+Since January 2020, we have been organising and hosting sessions to discuss imporant topics that are at the intersection of humanities and data science.
 Members of this discussion/interest group are from The Alan Turing Institute, University College London, British Library and their friends or colleagues.
 As we gain momentum in this project and test different formats to run our discussion sessions, we understand that there might be more people who would like to get involved in the discussions or read notes from these meetings.
 
