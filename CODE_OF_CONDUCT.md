@@ -71,9 +71,8 @@ disabilities.
 
 ### Reporting Issues
 
-If you experience or witness unacceptable behavior, or have any other concerns,
-please report it by contacting the project organisers and maintainers:
-Federici Nanni (email: fnanni@turing.ac.uk) and Leontien Talboom (email: leontien.talboom.18@ucl.ac.uk).
+If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the project organiser and maintainer:
+Federico Nanni (email: fnanni@turing.ac.uk) and Leontien Talboom (email: leontien.talboom.18@ucl.ac.uk).
 
 To report an issue involving one of the members, please email other members individually.
 
