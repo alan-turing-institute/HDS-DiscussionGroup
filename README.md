@@ -2,7 +2,7 @@
 
 First and foremost, Welcome! 🎉
 
-This repository is to develop, store and maintain resources for the Humanities & Data Science (HDS) Discussion Group, which is part of a [broader Turing Interest Group on the topic](https://www.turing.ac.uk/research/interest-groups/humanities-and-data-science).
+This repository is to develop, store and maintain resources for the Humanities & Data Science (HDS) Discussion Group, which is part of a broader [Turing Interest Group on the same topic](https://www.turing.ac.uk/research/interest-groups/humanities-and-data-science).
 
 This document (the README file) is a hub to give you some information about the project.
 
