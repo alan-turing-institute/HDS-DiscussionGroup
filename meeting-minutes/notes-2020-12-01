@@ -1,0 +1,115 @@
+
+## Notes 01 December, 2020
+
+## Topic
+
+**Ground Truth and the Humanities**: The Structured Representation of Places (and other Named Entities) in a Knowledge Base ([slides](https://docs.google.com/presentation/d/1PIddDoFrhQsSwxvfy715_5idNujxbnmv2Jo-ztS-8_s/edit?usp=sharing))
+
+
+## Volunteers to take notes
+
+- Fede
+- Malvika
+-
+
+## Participants 
+
+**Participants (write your names below)**
+
+*Name / Institute*
+
+- Federico Nanni, The Alan Turing Institute
+- Leontien Talboom, UCL & The National Archives UK
+- Malvika Sharan, The Turing Way - Turing Institute
+- Katie MacDonough, The Alan Turing Institute
+- Ludovic Moncla, INSA Lyon
+- Carmen Brando, EHESS Paris
+- Rossitza Atanassova, British Library
+- Bruno Martins
+- Matt
+- Arno
+- S. Sharoff, Leeds
+- Gethin Rees
+- Beatrice Alex
+- Janelle Jenstad, University of Victoria, Map of Early Modern London
+- Daniel Wilson
+- Kasper Beelen
+- Ruth Mostern
+- Karl Grossner, World Historical Gazetteer
+- Arianna Ciula, King's DigitaL Lab, King's College London (UK)
+- Francesca Benatti, The Open University
+- Enrico Daga, The Open University
+- Miranda Lewis
+- Arianna Ciula
+- Mark Bell
+- Katherine Bellamy
+- Yann Ryan, QMUL, Networking Archives project
+- Arno Bosse, KNAW Humanities Cluster, Amsterdam
+- Alex Butterworth
+- Barbara McGillivray
+- Bekka Kahn
+
+
+✍ Initial Drafted Notes
+---
+*anyone can help taking notes.*
+<!-- All things discussed during the meeting can be entered here. -->
+
+- Ground Truth in Humanities: came across this through [field paper](https://wiki.openstreetmap.org/wiki/Field_Papers) 
+- Remote sensing data and historical map: what counts as ground truth about historical places?
+  - The concept of ground truth, especially in digital humanities
+
+- Reference for the concept in the humanities
+- Etymology of the word ground truth: remote sensing, the truth "in the ground". Correcting the digital data (no longer or never represented) what is on the ground. Ground truth as returning to the ground. Going back to the landscape
+
+- As per wiki: https://en.wikipedia.org/wiki/Ground_truth
+    - 'records the use of the word "**Groundtruth**" in the sense of a "fundamental **truth**" from Henry Ellison's poem "The Siberian Exile's Tale", published in 1833.'
+    - [Geographic information systems](https://en.wikipedia.org/wiki/Geographic_information_system "Geographic information system") such as GIS, GPS, and GNSS, have become so widespread that the term "ground truth" has taken on special meaning in that context. If the location coordinates returned by a location method such as GPS are an estimate of a location, then the "ground truth" is the actual location on Earth.
+
+- Arianna Ciula: in terms of computer science context of verifiability and the lack of data in the humanities to often establish ground truth: https://drops.dagstuhl.de/opus/volltexte/2013/4167/pdf/dagman-v002-i001-p014-12382.pdf - useful to have in some circumstances e.g. when subsantial training datasets needed
+    - Coincidentally today with some other colleagues we had a meeting with Prof Charlotte Roueche about re-building/refreshing this gazetteer project https://www.slsgazetteer.org/ and one of the discussion points focused on the constraints on measurements methods at the time when names were recorded (the point is that we are for granted even the identification of exact coordinates).
+
+- Janelle Jenstad: the need of an autority of name for place. What counts as ground truth**s** about a place? Who wrote those documents and why?
+    - Who has the right to name? 
+    - Experience working on historical mapping of early modern London, North America's indigenous land.
+    - Who from the past has the right to name the land, who we have forgotten, how do we develop a gazetteer that brings people to get their voices heard (truth from the land/ground)
+
+- Ruth Mostern: what we see in published works and what we see on the ground are not the same thing! Go to the ground to figure out what is there. Thinking about the spacial humanities as part of the humanities. Decolonizing colleg campuses - list of every building / roads in every campus and studying all individuals commemorated. 
+
+- Definition: A **gazetteer** is a geographical **dictionary** or directory, an important reference for information about places and place names (see: toponomy), used in conjunction with a map or a full atlas.
+
+- Bea: working on NLP and geoparsing in Edinburgh. Ground truth for verifying an algorithm. Project and task driven the decision on the gold standard / ground truth. 
+- Katie: is the gold standard the same thing as the ground truth?
+- Bruno Martins: we use ground truth referring to annotations that can be considered as truth. we often work on projects that have ambiguity - we look at the level of agreement. there are tools to quantify uncertainty. reaching something that is close to a consensus. In geography you want to go beyond categorical variables. Does probability theory 
+- S. Sharoff: another point of view from NLP. Classification of genres for instance, often there is the problem of reliability of annotations. Annotations offer different perspectives. If you have a task for translating, a question is what is the cognitive difficulty of this (this is really difficult to establish)
+- Katie: there is lots of theory on how to handle interannotator agreement, but with visual material the reference point is going back to pre-digital geography. 
+- Ariana C: To react to Bruno’s comment: agreed but I also think it depends a lot on the dataset we are discussing; e.g. in the case of palaeography mentioned above there are simply not enough data to establish a ground truth in the computational sense
+
+
+- Francesca Benatti: Another historical example is the Irish Ordnance Survey, which renamed every single place name in Ireland from Irish Gaelic into English during 1824-1842, while Ireland was part of the United Kingdom. Even after Irish independence in 1922, the English place names are the ones that have remained in common usage. Some of the Irish Gaelic names have only survived in the documents of the surveyors. In Northern Ireland, certain places have different names for the nationalist community and for the unionist community e.g. Derry/Londonderry. “Truth” cannot be separated from the political.
+
+- Karl Grossner, it is a bit ironic that a group of humanists discuss about how to establish truth. There is observational data, but this is different from truth. 
+- Katie: Who's on first as an interesting project (from the internet, not from academia). How do we capture multiple truths?
+- Arianna: Data Information Knowledge pyramid quoted a lot but not always clear what it means in practice so enjoying Karl’s explanation
+- Ruth: Devil's advocate position: the fact that there was a Gaelic name that was erased by British colonialism (as per the example above) IS a truth, which needs to be excavated. Truth is a good word for this process.
+- Bekka: Knowledge as ‘belief’ also makes me think about  holy/spiritual places which were real at historical moments such as Hades, or Jerusalem (I know the team at KIMA have thought about this a lot).
+- Arno: be transparent on what we want to use the gazetteer for. Why are you building the gazzetteer
+- Katie: what is important when you construct a gazzetteer (both historically and now)
+
+- Enrico:  what is the identify of a place? Is London and Londinium the same place or different places? You use the term ground truth to make a point in computer science. What is the role of "ground truth" in the humanities? Maybe we should speak more about "evidences". 
+- Arianna: defined data models in a layered way (definition of strata depends on scope/purpose/user research) - even a minimum data model for place can be quite complex as the concept is relational (space-time)
+
+Full Zoom chat available [here](https://drive.google.com/file/d/1oVRDSPYsBZpUzylSjjubTQJLibdu2LTD/view?usp=sharing)
+
+:books: Reference and other works mentioned during the discussion
+---
+*Please add link and reference, any work that has been discussed and mentioned*
+
+- [field paper](https://wiki.openstreetmap.org/wiki/Field_Papers)
+- Gazetteer project: https://www.slsgazetteer.org/ 
+- ref by Arianna: the humanities to often establish ground truth: https://drops.dagstuhl.de/opus/volltexte/2013/4167/pdf/dagman-v002-i001-p014-12382.pdf
+- Ref by Janelle: https://www.w3.org/2009/12/rdf-ws/papers/ws21: Halpin and Hayes, "When owl:sameAs isn't the Same"
+- Ref by Karl Grossner: https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.24194
+- Ref by Francesca: Logainm.ie The Placenames Database of Ireland, which is working to register both Irish and English place names https://www.logainm.ie/en/. It also links to historical sources of place names 
+- Recent Reassembling Republic of Letters publication also includes useful reference to modelling of places: https://www.univerlag.uni-goettingen.de/handle/3/isbn-978-3-86395-403-1?locale-attribute=en
+- cf. World Historical Gazetteer: http://whgazetteer.org
