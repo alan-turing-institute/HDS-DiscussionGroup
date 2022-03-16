@@ -13,12 +13,12 @@ As we gain momentum in this project and test different formats to run our discus
 ## Maintainers and Organisers
 
 The project maintainers and discussion group organisers are the following members:
-- Federico Nanni, Senior Data Scientists, The Alan Turing Institute
-- Katherine L. McDonough, Hostory Post Doc, Living with Machine Project
-- Malvika Sharan, Senior Researcher and Co-Lead of The Turing Way
+- Federico Nanni (@fnanni), Senior Data Scientists, The Alan Turing Institute
+- Katherine L. McDonough (@kmcdono2), Hostory Post Doc, Living with Machine Project
+- Malvika Sharan (@malvikasharan), Senior Researcher and Co-Lead of The Turing Way
 - Valeria Vitale, Research Associate, Digital Cultural Heritage
-- Kalle Westerling, DH Research Software Engineer, Living with Machine Project
-- Anne Lee Steele, Community Manager of The Turing Way
+- Kalle Westerling (@kallewesterling), DH Research Software Engineer, Living with Machine Project
+- Anne Lee Steele (@aleesteele), Community Manager of The Turing Way
 
 ### Thanks to Previous Contributors
 
