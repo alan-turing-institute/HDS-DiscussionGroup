@@ -10,7 +10,24 @@ Since January 2020, we have been organising and hosting sessions to discuss impo
 Members of this discussion/interest group are from The Alan Turing Institute, University College London, British Library and their friends or colleagues.
 As we gain momentum in this project and test different formats to run our discussion sessions, we understand that there might be more people who would like to get involved in the discussions or read notes from these meetings.
 
-If you would like to get involved or share ideas to make resources from these sessions available for wider audience, please get in touch with the maintainers of this repository and members of the organisation group, Federico Nanni, Leontien Talboom, Malvika Sharan and Katherine L. McDonough by opening an [issue](https://github.com/fedenanni/HDS-DiscussionGroup/issues) on this repository.
+## Maintainers and Organisers
+
+The project maintainers and discussion group organisers are the following members:
+- Federico Nanni (@fnanni), Senior Data Scientist, Research Engineering Group
+- Katherine L. McDonough (@kmcdono2), History Postdoc, Living with Machine Project
+- Malvika Sharan (@malvikasharan), Senior Researcher and Co-Lead of The Turing Way
+- Valeria Vitale (@nottinauta), Research Associate, Digital Cultural Heritage
+- Kalle Westerling (@kallewesterling), DH Research Software Engineer, Living with Machine Project
+- Anne Lee Steele (@aleesteele), Community Manager of The Turing Way
+
+### Thanks to Previous Contributors
+
+- Leontien Talboom, UCL
+- David Beavan, The Alan Turing Institute
+
+## Getting Involved
+
+If you would like to get involved or share ideas to make resources from these sessions available for wider audience, please get in touch with the maintainers of this repository by opening an [issue](https://github.com/fedenanni/HDS-DiscussionGroup/issues) on this repository.
 
 If you would like to help with any of the issues raised in this repository or have other ideas for contributions, please check out our [contributors' guidelines](./CONTRIBUTING.md).
 
