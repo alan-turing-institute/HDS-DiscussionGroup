@@ -16,7 +16,7 @@ The project maintainers and discussion group organisers are the following member
 - Federico Nanni (@fnanni), Senior Data Scientist, Research Engineering Group
 - Katherine L. McDonough (@kmcdono2), History Postdoc, Living with Machine Project
 - Malvika Sharan (@malvikasharan), Senior Researcher and Co-Lead of The Turing Way
-- Valeria Vitale, Research Associate, Digital Cultural Heritage
+- Valeria Vitale (@nottinauta), Research Associate, Digital Cultural Heritage
 - Kalle Westerling (@kallewesterling), DH Research Software Engineer, Living with Machine Project
 - Anne Lee Steele (@aleesteele), Community Manager of The Turing Way
 
