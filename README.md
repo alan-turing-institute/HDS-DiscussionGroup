@@ -15,15 +15,14 @@ As we gain momentum in this project and test different formats to run our discus
 The project maintainers and discussion group organisers are the following members:
 - Federico Nanni (@fnanni), Senior Data Scientist, Research Engineering Group
 - Katherine L. McDonough (@kmcdono2), History Postdoc, Living with Machine Project
-- Malvika Sharan (@malvikasharan), Senior Researcher and Co-Lead of The Turing Way
 - Valeria Vitale (@nottinauta), Research Associate, Digital Cultural Heritage
 - Kalle Westerling (@kallewesterling), DH Research Software Engineer, Living with Machine Project
 - Anne Lee Steele (@aleesteele), Community Manager of The Turing Way
 
-### Thanks to Previous Contributors
+### Thanks to Previous Organisers
 
-- Leontien Talboom, UCL
-- David Beavan, The Alan Turing Institute
+- Leontien Talboom (@makethecatwise), PhD Student, UCL
+- Malvika Sharan (@malvikasharan), Senior Researcher and Co-Lead of The Turing Way
 
 ## Getting Involved
 
